@@ -1,8 +1,13 @@
-# Git Explained Visually
-
-# Git Workflow Simulation (Real-world Collaboration)
+# 🔀 Git Workflow Simulation (Real-world Collaboration)
 
 This repository demonstrates how Git works in a real team environment using visual examples.
+
+## 📑 Table of Contents
+
+- **[What this project shows](#-what-this-project-shows)**
+- **[Why I created this](#-why-i-created-this)**
+- **[Visual Learning](#-visual-learning)**
+- **[Outcome](#-outcome)**
 
 ## 🎯 What this project shows
 
